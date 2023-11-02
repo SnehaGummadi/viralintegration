@@ -10,7 +10,7 @@ Reference fasta chromosome 2L with NCBI accession number:
 https://raw.githubusercontent.com/SnehaGummadi/viralintegration/master/Dmelanogaster_data/chr2L_Dmelanogaster.fa
 
 Reference gtf (full genome):
-https://raw.githubusercontent.com/SnehaGummadi/viralintegration/master/Dmelanogaster_data/Dmelanogaster_reference.gtf.gz
+https://raw.githubusercontent.com/SnehaGummadi/viralintegration/master/Dmelanogaster_data/Dmel_reference.gtf.gz
 
 Transposons (from TEMP2):
 https://raw.githubusercontent.com/weng-lab/TEMP2/master/test/transposon.fa
