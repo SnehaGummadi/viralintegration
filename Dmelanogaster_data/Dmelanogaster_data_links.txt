@@ -1,0 +1,24 @@
+D. melanogaster
+
+Full Reference fasta:
+https://raw.githubusercontent.com/SnehaGummadi/viralintegration/master/Dmelanogaster_data/Dmel_reference.fa.gz
+
+Reference fasta chromosome 2L:
+https://raw.githubusercontent.com/weng-lab/TEMP2/master/test/chr2L.fa
+
+Reference fasta chromosome 2L with NCBI accession number:
+https://raw.githubusercontent.com/SnehaGummadi/viralintegration/master/Dmelanogaster_data/chr2L_Dmelanogaster.fa
+
+Reference gtf (full genome):
+https://raw.githubusercontent.com/SnehaGummadi/viralintegration/master/Dmelanogaster_data/Dmelanogaster_reference.gtf.gz
+
+Transposons (from TEMP2):
+https://raw.githubusercontent.com/weng-lab/TEMP2/master/test/transposon.fa
+TEMP2 transposon issues with FBgn0004904_TART
+
+Fixed Transposons:
+https://raw.githubusercontent.com/SnehaGummadi/viralintegration/master/Dmelanogaster_data/transposons_Dmelanogaster.fa
+
+Test fastqs (from TEMP2):
+https://raw.githubusercontent.com/weng-lab/TEMP2/master/test/test.1.fastq.gz
+https://raw.githubusercontent.com/weng-lab/TEMP2/master/test/test.2.fastq.gz
